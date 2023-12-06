@@ -1,0 +1,221 @@
+[
+  {
+    "name": "Vite",
+    "logo": "https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png",
+    "command": "npm create vite@latest . -- --template [template]",
+    "options": {
+      "template": {
+        "selected": "lit",
+        "values": [
+          "vanilla",
+          "vanilla-ts",
+          "vue",
+          "vue-ts",
+          "react",
+          "react-ts",
+          "react-swc",
+          "react-swc-ts",
+          "preact",
+          "preact-ts",
+          "lit",
+          "lit-ts",
+          "svelte",
+          "svelte-ts",
+          "solid",
+          "solid-ts",
+          "qwik",
+          "qwik-ts"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Astro",
+    "logo": "https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png",
+    "command": "npm create astro@latest"
+  },
+  {
+    "name": "Astro Example",
+    "logo": "https://raw.githubusercontent.com/github/explore/5cc0a03a302ec862c4aeac2a22a513ae31c35432/topics/astro/astro.png",
+    "command": "npm create astro@latest . -- --template [template]",
+    "options": {
+      "template": {
+        "selected": "basics",
+        "values": [
+          "basics",
+          "blog",
+          "component",
+          "framework-alpine",
+          "framework-lit",
+          "framework-multiple",
+          "framework-preact",
+          "framework-react",
+          "framework-solid",
+          "framework-svelte",
+          "framework-vue",
+          "hackernews",
+          "integration",
+          "middleware",
+          "minimal",
+          "non-html-pages",
+          "portfolio",
+          "ssr",
+          "view-transitions",
+          "with-markdoc",
+          "with-markdown-plugins",
+          "with-markdown-shiki",
+          "with-mdx",
+          "with-nanostores",
+          "with-tailwindcss",
+          "with-vite-plugin-pwa",
+          "yesterday",
+          "with-vitest"
+        ]
+      }
+    }
+  },
+  {
+    "name": "Angular",
+    "logo": "https://avatars.githubusercontent.com/u/139426?s=200&v=4",
+    "command": "npx -p @angular/cli@latest ng new ."
+  },
+  {
+    "name": "Next.js",
+    "logo": "https://api.iconify.design/logos:nextjs-icon.svg",
+    "command": "npx create-next-app@latest ."
+  },
+  {
+    "name": "Nuxt 3",
+    "logo": "https://nuxt.com/assets/design-kit/icon-green.svg",
+    "command": "npx nuxi@latest init ."
+  },
+  {
+    "name": "React",
+    "logo": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/react.svg",
+    "command": "npm create vite@latest . -- --template [template]",
+    "options": {
+      "template": {
+        "selected": "react",
+        "values": ["react", "react-ts"]
+      }
+    }
+  },
+  {
+    "name": "Vue 3",
+    "logo": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/vue.svg",
+    "command": "npm create vue@latest ."
+  },
+  {
+    "name": "Solid",
+    "logo": "https://api.iconify.design/logos:solidjs-icon.svg",
+    "command": "npm create vite@latest . -- --template [template]",
+    "options": {
+      "template": {
+        "selected": "solid",
+        "values": ["solid", "solid-ts"]
+      }
+    }
+  },
+  {
+    "name": "Preact",
+    "logo": "https://api.iconify.design/logos:preact.svg",
+    "command": "npm create vite@latest . -- --template [template]",
+    "options": {
+      "template": {
+        "selected": "preact",
+        "values": ["preact", "preact-ts"]
+      }
+    }
+  },
+  {
+    "name": "Lit",
+    "logo": "https://api.iconify.design/logos:lit-icon.svg",
+    "command": "npm create vite@latest . -- --template [template]",
+    "options": {
+      "template": {
+        "selected": "lit",
+        "values": ["lit", "lit-ts"]
+      }
+    }
+  },
+  {
+    "name": "Svelte",
+    "logo": "https://api.iconify.design/logos:svelte-icon.svg",
+    "command": "npm create vite@latest . -- --template [template]",
+    "options": {
+      "template": {
+        "selected": "svelte",
+        "values": ["svelte", "svelte-ts"]
+      }
+    }
+  },
+  {
+    "name": "SvelteKit",
+    "logo": "https://api.iconify.design/logos:svelte-icon.svg",
+    "command": "npm create svelte@latest ."
+  },
+  {
+    "name": "Ember",
+    "logo": "https://emberjs.com/images/brand/ember-e-rounded-icon-4c.svg",
+    "command": "npx -p ember-cli ember init"
+  },
+  {
+    "name": "Ladle",
+    "logo": "https://ladle.dev/img/logo.svg",
+    "command": "npm install @ladle/react"
+  },
+  {
+    "name": "NestJS",
+    "logo": "https://api.iconify.design/logos:nestjs.svg",
+    "command": "npx -p @nestjs/cli nest new ."
+  },
+  {
+    "name": "Feathers",
+    "logo": "https://feathersjs.com/logo.svg",
+    "command": "npm create feathers@latest ."
+  },
+  {
+    "name": "Nitro",
+    "command": "npx giget@latest nitro ."
+  },
+  {
+    "name": "Nuxt",
+    "logo": "https://api.iconify.design/logos:nuxt-icon.svg",
+    "command": "npx nuxi@latest init ."
+  },
+  {
+    "name": "Qwik",
+    "logo": "https://api.iconify.design/logos:qwik-icon.svg",
+    "command": "npm create qwik@latest [template] .",
+    "options": {
+      "template": {
+        "selected": "basic",
+        "values": ["basic", "site-with-visual-cms", "empty", "library"]
+      }
+    }
+  },
+  {
+    "name": "Quasar",
+    "logo": "https://cdn.quasar.dev/logo-v2/svg/logo-dark.svg",
+    "command": "npm init quasar"
+  },
+  {
+    "name": "Slidev",
+    "logo": "https://sli.dev/logo.svg",
+    "command": "npm init slidev ."
+  },
+  {
+    "name": "Starlight",
+    "logo": "https://github-production-user-asset-6210df.s3.amazonaws.com/357379/237749422-494fcd83-42aa-4891-87e0-87402fa0b6f3.png",
+    "command": "npm create astro@latest . -- --template starlight"
+  },
+  {
+    "name": "Remotion",
+    "command": "npm init video"
+  },
+  {
+    "name": "VitePress",
+    "logo": "https://vitepress.dev/vitepress-logo-mini.svg",
+    "command": "npx vitepress init ."
+  }
+]
